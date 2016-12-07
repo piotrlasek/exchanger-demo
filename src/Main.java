@@ -5,8 +5,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World!");
 
-        int firemen = 3;
-
         Bucket b1 = new Bucket(0, false);
         Bucket b2 = new Bucket(1, false);
         Bucket b3 = new Bucket(2, true);
